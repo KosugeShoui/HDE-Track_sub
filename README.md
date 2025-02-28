@@ -32,9 +32,9 @@ on temporal modeling and Transformer-based sperm detection and tracking models.
 - Update 2025/02/11
 
 ## VISEM-Tracking Evaluation
-<div style="align: center">
-<img src=./assets/result.png/>
-</div>
+<!div style="align: center">
+<!img src=./assets/result.png/>
+<!/div>
 
 
 # Base Tracking Model
