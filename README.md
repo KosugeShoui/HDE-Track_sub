@@ -29,13 +29,11 @@ integrating with conventional CASA systems. HDE-Track can serve as a stronger ba
 on temporal modeling and Transformer-based sperm detection and tracking models.
 
 ## Updates
-- Update 2025/02/11
+- Update 2025/02/28
 
 ## VISEM-Tracking Evaluation
 Experimental results are not disclosed because the paper is under review.
-<! <div style="align: center"> 
-<img src=./assets/result.png/>
-</div> >
+
 
 
 # Base Tracking Model
